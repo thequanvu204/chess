@@ -1,0 +1,9 @@
+.idea/
+venv/
+__pycache__/
+.vscode/
+GameSessionServerCache/
+GamePlayerCache/
+GameSessionServer.log
+settings.json
+*-workspace
